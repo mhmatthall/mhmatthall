@@ -1,11 +1,16 @@
-### Hi there 👋
+![Matt Hall](img/matthall_header_bw.png)
+
+# Hey! ✨
+
+I'm Matt Hall, a MSc/PhD student at Swansea University with an interest in playing with data and trying to explain it.
+
+### Currently working on:
+- `rnn_gmi` is an experimental model inversion attack on (textual) recurrent neural networks
+- 🕵️ Secret website project
 
 <!--
-**mhmatthall/mhmatthall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
