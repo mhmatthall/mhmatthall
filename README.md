@@ -2,8 +2,4 @@
 
 # Hey! ✨
 
-I'm Matt Hall, a MSc/PhD student at Swansea University with an interest in playing with data and trying to explain it.
-
-### Currently working on:
-- `rnn_gmi` is an experimental model inversion attack on (textual) recurrent neural networks
-- 🕵️ Secret website project
+I'm Matt Hall, a PhD student at Swansea University working with Velindre Cancer Centre on developing digital patient-reported outcome measures to revolutionise person-centred healthcare
