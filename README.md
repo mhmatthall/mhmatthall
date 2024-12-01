@@ -1,5 +1,10 @@
-# Hey! 😸
+# hey!
 
-I'm Matt Hall, a PhD student at Swansea University working with [Velindre Cancer Centre](https://velindre.nhs.wales) on developing digital patient-reported outcome measures to revolutionise person-centred healthcare.
+trying to make the world better through thoughtful digital design
 
-[Check out the project website!](https://pch.wales/)
+current work
+- [my PhD project](https://pch.wales) developing digital quality-of-life measures for cancer patients
+- [cronicl](https://cronicl.org) — a platform which enables everyone to take part in citizen science for biodiversity
+
+other stuff
+- [badgeman](https://github.com/mhmatthall/badgeman-redux) — the first digital name badge mass management system for events
